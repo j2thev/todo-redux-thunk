@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.done-true {
+  text-decoration: line-through;
+  color: gray
+}
+
+.done-false {
+  text-decoration: none;
+  color: black
+}
+
+ul {
+  list-style-type: none;
+}
